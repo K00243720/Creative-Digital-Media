@@ -1,6 +1,8 @@
-# Creative_Digital_Media h1
-## header 2
-### header 3
+# Creative Digital Media 
+
+## This is a Github page for my Search Engine Optimisation module as part of my HDip Creative Multimedia Programming course at LIT
+
+### 
 
 paragraph is blank line before and after
 
