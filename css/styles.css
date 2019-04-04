@@ -60,8 +60,13 @@ a {
   overflow: auto;
 }
 
-img {
+figure {
     width: 100%;
+}
+
+figcaption {
+    font-size: .6em;
+    text-align: center;
 }
 
 ul {
@@ -79,7 +84,7 @@ li:before {
 
 .footer {
    text-align: center; 
-    font-size: 1em;
+    font-size: .8em;
     }
 
 
