@@ -10,7 +10,7 @@ This page was created to use the keywords Creative Digital Media and employ vari
 
 This page was created using course content from Creative Multimedia Programming's modules, with extra information regarding my opinions on undertaking such a course as a mature student. I used some code from CodePen for the background styling, as I had been trying to learn about adding a two-tone background to a site, so this was a good time to learn.
 
-<img src="img/web1.png" alt="Website" width="600" height="450" style="max-width:100%">
+<img src="img/Web1.png" alt="Website" width="600" height="450" style="max-width:100%">
 
                                                       
 ## Search Engine Optimisation 
