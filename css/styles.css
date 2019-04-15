@@ -83,6 +83,15 @@ li:before {
   margin-right: 8px;
 }
 
+.link:before {
+  content: none;
+  margin-right: 0px;    
+}
+
+.links {
+    text-decoration: none;
+}
+
 .footer {
    text-align: center; 
     font-size: .8em;
